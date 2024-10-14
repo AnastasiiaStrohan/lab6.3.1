@@ -1,0 +1,8 @@
+﻿  lb6.3.01.cpp
+C:\Users\Admin\source\repos\lb6.3.01\lb6.3.01\lb6.3.01.cpp(32,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+      C:\Users\Admin\source\repos\lb6.3.01\lb6.3.01\lb6.3.01.cpp(32,11):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Admin\source\repos\lb6.3.01\lb6.3.01\lb6.3.01.cpp(50,5):
+          see reference to function template instantiation 'void reverseArray<int>(std::vector<int,std::allocator<int>> &)' being compiled
+  
+  lb6.3.01.vcxproj -> C:\Users\Admin\source\repos\lb6.3.01\x64\Debug\lb6.3.01.exe
